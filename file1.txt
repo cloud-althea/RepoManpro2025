@@ -1,3 +1,5 @@
 Isi awal file1
 
-Edit1: file1_edit
+Edit1: file1_edit (new)
+
+Edit2: file1_newEdit
